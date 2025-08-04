@@ -39,6 +39,7 @@
 
 ### ⚙️ DevOps & Monitoring
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%230db7ed.svg?style=for-the-badge&logo=linux&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
