@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with me
 
-<p align="center"><a href="https://linkedin.com/in/matvey-babashka-ba0648359/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:m5221211m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://discord.gg/DzMMQ3XM"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D1%82%D0%B2%D0%B5%D0%B9-%D0%B1%D0%B0%D0%B1%D0%B0%D1%88%D0%BA%D0%B0-ba0648359/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:m5221211m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://discord.gg/DzMMQ3XM"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a></p>
 
 ---
 
