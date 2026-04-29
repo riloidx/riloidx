@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Backend Engineer</strong> dedicated to crafting reliable, high-performance server-side applications
+  <strong>Fullstack Engineer</strong> dedicated to building scalable, high-performance server-side architectures and modern, intuitive user interfaces
 </p>
 
 ---
