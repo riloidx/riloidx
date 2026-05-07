@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Fullstack Engineer</strong> dedicated to building scalable, high-performance server-side architectures and modern, intuitive user interfaces
+  <strong>Software Engineer</strong> dedicated to building scalable, high-performance server-side architectures and modern, intuitive user interfaces
 </p>
 
 ---
@@ -56,7 +56,6 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-200331?style=for-the-badge&logo=liquibase&logoColor=white"/>
-  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
 </p>
